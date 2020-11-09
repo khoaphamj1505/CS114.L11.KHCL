@@ -21,7 +21,7 @@ Biết: 1 pound = 0.453592 kg
 và 1 inch = 2,54 cm
 
 Viết công thức giúp Bình đổi PSI sang kg/cm2
-* ~Code~:
+* Code:
 
       from decimal import*
       getcontext().prec=6
