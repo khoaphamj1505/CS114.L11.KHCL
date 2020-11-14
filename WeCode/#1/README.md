@@ -1,6 +1,5 @@
 **DANH SÁCH BÀI TẬP CỦA ASSAIGNMENT #1:**
-> 1. Thang đo nhiệt độ KFC 
-Link: https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/WeCode/%231/Thangdonhietdo.ipynb
+> 1.  [__*Thang đo nhiệt độ KFC*__](https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/WeCode/%231/Thangdonhietdo.ipynb)
 > 2. Độ đo áp suất SI/PSI     
 Link: https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/WeCode/%231/Do-do-ap-suat.ipynb
 > 3. Gà và Chó      
