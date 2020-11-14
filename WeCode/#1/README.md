@@ -1,4 +1,4 @@
-**DANH SÁCH BÀI TẬP CỦA ASSAIGNMENT #1:**
+# **DANH SÁCH BÀI TẬP CỦA ASSAIGNMENT #1:**
 > 1. [__*Thang đo nhiệt độ KFC*__](https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/WeCode/%231/Thangdonhietdo.ipynb)
 > 2. [__*Độ đo áp suất SI/PSI*__](https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/WeCode/%231/Do-do-ap-suat.ipynb)
 > 3. [__*Gà và Chó*__](https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/WeCode/%231/Gavacho.ipynb)   
