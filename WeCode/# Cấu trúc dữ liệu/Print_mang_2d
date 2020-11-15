@@ -1,0 +1,92 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled3.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyPQ0+QWXjnERrowkHaDkhYq",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/khoaphamj1505/CS114.L11.KHCL/blob/master/WeCode/%23%20C%E1%BA%A5u%20tr%C3%BAc%20d%E1%BB%AF%20li%E1%BB%87u/Print_mang_2d\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "3Z17OjJ1QqIk"
+      },
+      "source": [
+        "**BÀI 3: Print Mảng 2D **\n",
+        "\n",
+        "Đề: Bình đang làm bài tập mảng 2 chiều nâng rất rất cao. Bình cần xuất mảng ra màn hình để quan sát. Tuy nhiên do các số nguyên trong mảng độ dài khác nhau nên khi xuất ra nhìn rất lộn xộn, không biết được số nào ở cột nào. Bạn hãy viết giúp Bình hàm xuất mảng một cách ngay ngắn.\n",
+        "\n",
+        "INPUT\n",
+        "Dòng đầu tiên chứa hai số r và c là số dòng và số cột của mảng, mỗi số không quá 1000.\n",
+        "\n",
+        "r dòng tiếp theo, mỗi dòng chứa c số nguyên. Đây là các phần tử trong mảng 2 chiều\n",
+        "\n",
+        "OUTPUT\n",
+        "Mảng 2 chiều được canh lề phải ở các cột. Tức là chữ số cuối cùng của các cột được viết thẳng hàng với nhau. Các chỗ trống được lấp đầy bằng ký tự khoảng trắng\n",
+        "\n",
+        "Code: "
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "9_ULBX9WQ6Cu",
+        "outputId": "768d39de-e2e2-45b7-ac23-03f463e4e867",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "source": [
+        "k=[int(x) for x in input().split()]\n",
+        "arr=[[] for _ in range(k[0]+1)]\n",
+        "\n",
+        "for i in range(k[0]):\n",
+        "    arr[i] = [int(j) for j in input().split()]\n",
+        "\n",
+        "for j in range(k[1]):\n",
+        "       arr[k[0]].append(max(len(str(arr[i][j])) for i in range(k[0])))\n",
+        "\n",
+        "for i in range(k[0]):\n",
+        "   for j in range(k[1]):\n",
+        "        if j!=k[1]-1:\n",
+        "           print(str(arr[i][j]).rjust(arr[k[0]][j]), end= \" \")\n",
+        "        else :\n",
+        "            print(str(arr[i][j]).rjust(arr[k[0]][j]))"
+      ],
+      "execution_count": 1,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "3 3\n",
+            "49865 236 587632\n",
+            "5694 1256 487996\n",
+            "36985 2655 14785\n",
+            "49865  236 587632\n",
+            " 5694 1256 487996\n",
+            "36985 2655  14785\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    }
+  ]
+}
