@@ -1,10 +1,9 @@
 # Fetal Health Classification #
-* Classify the health of a fetus as Normal, Suspect or Pathological using CTG data
-* Classify fetal health in order to prevent child and maternal mortality.
 ## Tổng quan ##
-
+* Phân nhom xưc khỏe thai nhi thành 3 loại khac nhau thông qua những tiêu chi được ghi nhận từ trươc
+* Phân loại xưc khỏe của bào thai nhằm đảm bảo an toàn cho cả mẹ và be 
 ## Data ##
-[Dữ liệu](https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/Logistisc%20Regression(Fetus%20Health)/fetal_health.csv) ghi nhận 2126 trường hợp, bao gồm 22 thuộc tinh được xet đên. Trong đo, thuộc tinh cuôi dùng để phân loại xưc khỏe thành 3 loại chuẩn đoan:
+[Dữ liệu](https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/Logistisc%20Regression(Fetus%20Health)/fetal_health.csv) ghi nhận 2126 trường hợp, bao gồm 22 thuộc tinh được xet đên. Trong đo, thuộc tinh cuôi dùng để phân loại xưc khỏe thai nhi thành 3 loại chuẩn đoan:
 * Bình thường
 * Nghi bệnh
 * Bệnh
