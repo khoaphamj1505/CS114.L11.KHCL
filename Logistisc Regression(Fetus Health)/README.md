@@ -1,9 +1,9 @@
 # Fetal Health Classification #
 ## Tổng quan ##
-* Phân nhom xưc khỏe thai nhi thành 3 loại khac nhau thông qua những tiêu chi được ghi nhận từ trươc
-* Phân loại xưc khỏe của bào thai nhằm đảm bảo an toàn cho cả mẹ và be 
+* Phân nhóm sức khỏe thai nhi thành 3 loại khác nhau thông qua những tiêu chí được ghi nhận từ trước
+* Phân loại sức khỏe của bào thai nhằm đảm bảo an toàn cho cả mẹ và bé
 ## Data ##
-[Dữ liệu](https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/Logistisc%20Regression(Fetus%20Health)/fetal_health.csv) ghi nhận 2126 trường hợp, bao gồm 22 thuộc tinh được xet đên. Trong đo, thuộc tinh cuôi dùng để phân loại xưc khỏe thai nhi thành 3 loại chuẩn đoan:
+[Dữ liệu](https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/Logistisc%20Regression(Fetus%20Health)/fetal_health.csv) ghi nhận 2126 trường hợp, bao gồm 22 thuộc tính được xét đến. Trong đó, thuộc tính cuối dùng để phân loại sức khỏe thai nhi thành 3 loại chuẩn đoan:
 * Bình thường
 * Nghi bệnh
 * Bệnh
