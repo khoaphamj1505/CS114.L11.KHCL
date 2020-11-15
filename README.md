@@ -1,5 +1,6 @@
 # CS114.L11.KHCL
 
+![e16e93ee0f56f108a847](https://user-images.githubusercontent.com/70870108/99161934-38346680-272a-11eb-8b48-684e0d175abb.jpg)
 
 
 **THÀNH VIÊN NHÓM:**
