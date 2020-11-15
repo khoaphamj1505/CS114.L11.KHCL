@@ -15,4 +15,4 @@ Tên thành viên | MSSV | Github
 >1. [Wecode về PYTHON](https://github.com/khoaphamj1505/CS114.L11.KHCL/tree/master/WeCode)
 >2. [Linear Regression](https://github.com/khoaphamj1505/CS114.L11.KHCL/tree/master/Linear%20Regression)
 >3. [Logistisc Regression(Fetus Health)](https://github.com/khoaphamj1505/CS114.L11.KHCL/tree/master/Logistisc%20Regression(Fetus%20Health))
-
+>4. [Sarcasm Detection](https://github.com/khoaphamj1505/CS114.L11.KHCL/tree/master/sarcasm%20detection)
