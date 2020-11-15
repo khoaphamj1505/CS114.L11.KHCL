@@ -7,5 +7,5 @@
 * [Sarcasm_Headlines_Dataset_v2](https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/sarcasm%20detection/Sarcasm_Headlines_Dataset_v2.json)
 ## CODE ##
 
-* Tham khảo code [tại đây](https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/sarcasm%20detection/sarcasmv2.ipynb)
-
+* Tham khảo code [Sarcasm_Headlines_Dataset](https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/sarcasm%20detection/sarcasmv2.ipynb)
+* Tham khảo code [Sarcasm_Headlines_Dataset_v2](https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/sarcasm%20detection/sarcasmv2.ipynb)
