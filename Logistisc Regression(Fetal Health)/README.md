@@ -9,4 +9,4 @@
 * Bệnh
 ## CODE ##
 * Sử dụng thư viện Sklearn với model [LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html?highlight=logi#sklearn.linear_model.LogisticRegression)
-* Tham khảo code [tại đây](https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/Logistisc%20Regression(Fetus%20Health)/Fetal_Health_Classification.ipynb)
+* Tham khảo code [tại đây](https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/Logistisc%20Regression(Fetal%20Health)/Fetal_Health_Classification.ipynb)
