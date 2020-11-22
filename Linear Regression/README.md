@@ -1,6 +1,6 @@
 # Linear Regression #
 ## Tổng quan ##
-Dự đoán bằng Linear Regression bộ dữ liệu thuộc vể web [CS.UIT](https://cs.uit.edu.vn/)
+Dự đoán bằng Linear Regression bộ dữ liệu thuộc [CS.UIT](https://cs.uit.edu.vn/)
 ## Data ##
 * [Data](https://cs.uit.edu.vn/data.txt)
 * [Data3](http://cs.uit.edu.vn/data3.txt)
