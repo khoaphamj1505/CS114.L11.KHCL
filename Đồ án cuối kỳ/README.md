@@ -7,7 +7,8 @@
 * Độ đa dạng: nắng, mưa, tối
 * Tiền xử lý: cắt tay
 * Phân chia: 
-	- Train: 90%
+	- Train: 70%
+	- Dev: 20%
 	- Test: 10%
 # Mô tả đặc trưng:
 * Các loại phương tiện:
