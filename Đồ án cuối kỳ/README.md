@@ -8,7 +8,6 @@
 * Tiền xử lý: cắt tay
 * Phân chia: 
 	- Train: 90%
-	- Dev:
 	- Test: 10%
 # Mô tả đặc trưng:
 * Các loại phương tiện: 2 bánh, 4 bánh, hơn 4 bánh
