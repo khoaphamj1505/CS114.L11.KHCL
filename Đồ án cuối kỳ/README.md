@@ -10,4 +10,8 @@
 	- Train: 90%
 	- Test: 10%
 # Mô tả đặc trưng:
-* Các loại phương tiện: 2 bánh, 4 bánh, hơn 4 bánh
+* Các loại phương tiện:
+	- Loại 1: xe 2 bánh
+	- Loại 2: xe 4-7 chỗ
+	- Loại 3: xe trên 7 chỗ
+	- Loại 4: xe tải, xe container
