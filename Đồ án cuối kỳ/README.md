@@ -27,4 +27,11 @@
 
 ![image](https://user-images.githubusercontent.com/63738324/104817151-02a71900-5852-11eb-9dcf-29d4a97f32b7.png)
 
+## Thuật toán máy học: 
+- Sử dụng mô hình YOLOv4 (You Only Look Once)
+- YOLO là một trong những mô hình phát hiện, nhận dạng vật thể được coi là tốt nhất. 
+	* Tài liệu tham khảo: 
+		- https://github.com/AlexeyAB/darknet
+		- [Cách train mô hình YOLOv4](https://www.miai.vn/2020/05/25/yolo-series-train-yolo-v4-train-tren-colab-chi-tiet-va-day-du-a-z/)
+
 
