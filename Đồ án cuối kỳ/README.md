@@ -11,7 +11,7 @@
 
 * Số lượng và độ đa dạng:
 	
-	- 6000 bức hình gồm ảnh chứa logo và ảnh nhiễu
+	- 3000 bức hình gồm ảnh chứa logo và ảnh nhiễu
 	- Độ đa dạng: 90% bức hình lấy từ trên mạng, 10% bức hình chụp thực tế.
 	- Chụp hình trong các điều kiện khác nhau: sáng, tối mờ, đổi màu ảnh
 
@@ -24,5 +24,7 @@
 
 	* Tham khảo ở link: [Hướng dẫn sử dụng LabelImg](https://github.com/tzutalin/labelImg)
 - Cuối cùng bộ data Train sẽ gồm các tấm ảnh chứa logo trường và các file .txt chứa các thông số của nhãn
+
+![image](https://user-images.githubusercontent.com/63738324/104817151-02a71900-5852-11eb-9dcf-29d4a97f32b7.png)
 
 
