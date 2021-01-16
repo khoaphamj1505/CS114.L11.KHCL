@@ -8,15 +8,16 @@
 
 ![image](https://user-images.githubusercontent.com/63738324/104817036-506f5180-5851-11eb-9579-52cca3cdcd47.png)
 
-	* Số lượng và độ đa dạng:
-	
-		- 6000 bức hình gồm ảnh chứa logo và ảnh nhiễu
-		- Độ đa dạng: 90% bức hình lấy từ trên mạng, 10% bức hình chụp thực tế.
-		- Chụp hình trong các điều kiện khác nhau: sáng, tối mờ, đổi màu ảnh
 
-	* Phân chia: 
-		- Train: 80%
-		- Valid: 20%
+* Số lượng và độ đa dạng:
+	
+	- 6000 bức hình gồm ảnh chứa logo và ảnh nhiễu
+	- Độ đa dạng: 90% bức hình lấy từ trên mạng, 10% bức hình chụp thực tế.
+	- Chụp hình trong các điều kiện khác nhau: sáng, tối mờ, đổi màu ảnh
+
+* Phân chia: 
+	- Train: 80%
+	- Valid: 20%
 ## Các thao tác tiền xử lí:
 - Với bộ data train: Lọc tất cả các ảnh gây nhiễu(không chứa logo trường) bằng tay do nhóm chưa biết cách lọc bằng code nên thời gian lọc data có hơi mất thời gian. 
 - Sau khi lọc sử dụng tool LabelImg để gán nhãn dữ liệu(bounding boxes).
