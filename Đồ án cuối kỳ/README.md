@@ -12,7 +12,7 @@
 	* Phân chia: 
 		- Train: 80%
 		- Valid: 20%
-## 3.	Các thao tác tiền xử lí:
-	.Đưa các tấm hình về size cố định (300x300)
+## Các thao tác tiền xử lí:
+	- Với bộ data train: Lọc tất cả các ảnh gây nhiễu(không chứa logo trường) bằng tay do nhóm chưa biết cách lọc bằng code nên thời gian lọc data có hơi mất thời gian. Sau khi lọc sử dụng tool LabelImg để gán nhãn dữ liệu(bounding boxes). Cuối cùng bộ data Train sẽ gồm các tấm ảnh chứa logo trường và các file .txt chứa các thông số của nhãn
 	.Đưa các tấm hình về ảnh flatten.
 
