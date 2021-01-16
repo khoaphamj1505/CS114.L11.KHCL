@@ -3,15 +3,15 @@
 ## Mô tả bài toán:
 * **Input** : Bức ảnh có chứa logo
 * **Output** : Nhận diện được các logo trong ảnh( gồm logo *UIT* , *Hội Sinh Viên* , *Khoa học máy tính* , *Công Nghệ Phầm Mềm* , *Kỹ Thuật Máy Tính* , *Khoa học và Kĩ thuật thông tin*  
-	.Số lượng và độ đa dạng:
-	. 2000-2500 bức hình
-	. Độ đa dạng: 10% bức hình lấy từ trên mạng, 90% bức hình chụp thực tế (chụp hình trái cây từ siêu thị, chợ)
-	. Chụp hình trong các điều kiện khác nhau: sáng, tối mờ.
+	* Số lượng và độ đa dạng:
+	
+		- 6000 bức hình gồm ảnh chứa logo và ảnh nhiễu
+		- Độ đa dạng: 90% bức hình lấy từ trên mạng, 10% bức hình chụp thực tế.
+		- Chụp hình trong các điều kiện khác nhau: sáng, tối mờ, đổi màu ảnh
 
 	* Phân chia: 
-		- Train: 70%
-		- Dev: 20%
-		- Test: 10%
+		- Train: 80%
+		- Valid: 20%
 ## 3.	Các thao tác tiền xử lí:
 	.Đưa các tấm hình về size cố định (300x300)
 	.Đưa các tấm hình về ảnh flatten.
