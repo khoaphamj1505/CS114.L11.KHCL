@@ -1,8 +1,8 @@
 # Bài toán: Nhận diện thương hiệu - Logo trong ảnh
 * ***Bài toán có ứng dụng thực tế cao, đặc biệt cho công tác quản lý và nhận diện hiệu.***
 ## Mô tả bài toán:
-	* **Input**: Bức ảnh có chứa logo
-	* **Output**: Nhận diện được các logo trong ảnh( gồm logo *UIT*, *Hội Sinh Viên*, *Khoa học máy tính*, *Công Nghệ Phầm Mềm*, *Kỹ Thuật Máy Tính*, *Khoa học và Kĩ thuật thông tin*  
+* **Input** : Bức ảnh có chứa logo
+* **Output** : Nhận diện được các logo trong ảnh( gồm logo *UIT* , *Hội Sinh Viên* , *Khoa học máy tính* , *Công Nghệ Phầm Mềm* , *Kỹ Thuật Máy Tính* , *Khoa học và Kĩ thuật thông tin*  
 	-Phân loại những loại trái cây phổ biến tại Việt Nam (10 loại)
 	-Số lượng và độ đa dạng:
 	. 2000-2500 bức hình
