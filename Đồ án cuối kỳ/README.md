@@ -12,7 +12,7 @@
 * Số lượng và độ đa dạng:
 	
 	- 3000 bức hình gồm ảnh chứa logo và ảnh nhiễu
-	- Độ đa dạng: 90% bức hình lấy từ trên mạng, 10% bức hình chụp thực tế.
+	- Độ đa dạng: 85% bức hình lấy từ trên mạng, 15% bức hình chụp thực tế.
 	- Chụp hình trong các điều kiện khác nhau: sáng, tối mờ, đổi màu ảnh
 
 * Phân chia: 
@@ -33,5 +33,7 @@
 	* Tài liệu tham khảo: 
 		- https://github.com/AlexeyAB/darknet
 		- [Cách train mô hình YOLOv4](https://www.miai.vn/2020/05/25/yolo-series-train-yolo-v4-train-tren-colab-chi-tiet-va-day-du-a-z/)
-
+## Báo cáo sơ bộ từng vòng và gặp trở ngại gì, điều gì chưa tốt ????
+## Cần làm gì để giải quyết ??
+## WORD PP 
 
