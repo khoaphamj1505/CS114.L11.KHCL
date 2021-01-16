@@ -2,7 +2,12 @@
 * ***Bài toán có ứng dụng thực tế cao, đặc biệt cho công tác quản lý và nhận diện thương hiệu.***
 ## Mô tả bài toán:
 * **Input** : Bức ảnh có chứa logo
+
+![image](https://user-images.githubusercontent.com/63738324/104817010-2b7ade80-5851-11eb-8695-14087312330b.png)
 * **Output** : Nhận diện được các logo trong ảnh( gồm logo *UIT* , *Hội Sinh Viên* , *Khoa học máy tính* , *Công Nghệ Phầm Mềm* , *Kỹ Thuật Máy Tính* , *Khoa học và Kĩ thuật thông tin*  
+
+![image](https://user-images.githubusercontent.com/63738324/104817036-506f5180-5851-11eb-9579-52cca3cdcd47.png)
+
 	* Số lượng và độ đa dạng:
 	
 		- 6000 bức hình gồm ảnh chứa logo và ảnh nhiễu
