@@ -7,3 +7,4 @@
 ## CODE ##
 * Sử dụng thư viện Sklearn với model [LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html?highlight=logi#sklearn.linear_model.LogisticRegression)
 * Tham khảo code [tại đây](https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/sarcasm%20detection/News_Headlines_Dataset_For_Sarcasm_Detection.ipynb)
+* Tham khảo code so sánh với một số model Classification khác [tại đây]()
