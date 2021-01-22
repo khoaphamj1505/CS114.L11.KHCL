@@ -35,6 +35,7 @@
 ## Các bước cài đặt chương trình:
 ## Khó khăn:
 - Mô hình chưa giải quyết được các logo quá nhỏ.
+- Thời gian predict còn hơi chậm.
 ## Hướng giải quyết:
 - Nhóm đang train lại model khác là yolov4-custom để khắc phục các lỗi không nhận dạng được logo quá nhỏ. Có thể cải thiện dataset nhiều hơn, tiền xử lý hình ảnh…
 - Xử lý các trường hợp khó hơn: dạng logo mất một nửa
