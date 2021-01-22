@@ -12,7 +12,6 @@
 * Số lượng và độ đa dạng:
 	
 	- 3000 bức hình gồm ảnh chứa logo và ảnh nhiễu
-	- Độ đa dạng: 85% bức hình lấy từ trên mạng, 15% bức hình chụp thực tế.
 	- Chụp hình trong các điều kiện khác nhau: sáng, tối mờ, đổi màu ảnh
 
 * Phân chia: 
@@ -33,7 +32,11 @@
 	* Tài liệu tham khảo: 
 		- https://github.com/AlexeyAB/darknet
 		- [Cách train mô hình YOLOv4](https://www.miai.vn/2020/05/25/yolo-series-train-yolo-v4-train-tren-colab-chi-tiet-va-day-du-a-z/)
-## Báo cáo sơ bộ từng vòng và gặp trở ngại gì, điều gì chưa tốt ????
-## Cần làm gì để giải quyết ??
-## WORD PP 
+## Các bước cài đặt chương trình:
+## Khó khăn:
+- Mô hình chưa giải quyết được các logo quá nhỏ.
+- Mô hình gần như overfit với bộ dữ liệu với tỉ lệ 92,5% nhưng khi predict với bộ dữ liệu mới hoàn toàn thì tỉ lệ giảm đi khá nhiều còn khoảng 60%->75% tại vòng chung kết
+## Hướng giải quyết:
+- Nhóm đang train lại model khác để khắc phục các lỗi không nhận dạng được logo quá nhỏ. Có thể cải thiện dataset nhiều hơn, tiền xử lý hình ảnh…
+- Xử lý các trường hợp khó hơn dạng logo mất một nửa
 
