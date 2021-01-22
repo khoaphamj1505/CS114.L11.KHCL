@@ -35,8 +35,7 @@
 ## Các bước cài đặt chương trình:
 ## Khó khăn:
 - Mô hình chưa giải quyết được các logo quá nhỏ.
-- Mô hình gần như overfit với bộ dữ liệu với tỉ lệ 92,5% nhưng khi predict với bộ dữ liệu mới hoàn toàn thì tỉ lệ giảm đi khá nhiều còn khoảng 60%->75% tại vòng chung kết
 ## Hướng giải quyết:
-- Nhóm đang train lại model khác để khắc phục các lỗi không nhận dạng được logo quá nhỏ. Có thể cải thiện dataset nhiều hơn, tiền xử lý hình ảnh…
-- Xử lý các trường hợp khó hơn dạng logo mất một nửa
+- Nhóm đang train lại model khác là yolov4-custom để khắc phục các lỗi không nhận dạng được logo quá nhỏ. Có thể cải thiện dataset nhiều hơn, tiền xử lý hình ảnh…
+- Xử lý các trường hợp khó hơn: dạng logo mất một nửa
 
