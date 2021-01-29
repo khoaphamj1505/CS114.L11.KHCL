@@ -1,4 +1,6 @@
-# Bài toán: Nhận diện thương hiệu - Logo trong ảnh
+# Cuộc thi: UIT AI CHALLENGE - Nhận diện thương hiệu - Logo trong ảnh
+> [Link cuộc thi UIT AI CHALLENGE](http://aiclub.cs.uit.edu.vn/)
+
 * ***Bài toán có ứng dụng thực tế cao, đặc biệt cho công tác quản lý và nhận diện thương hiệu.***
 > [Model_YOLOv4](https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/%C4%90%E1%BB%93%20%C3%A1n%20cu%E1%BB%91i%20k%E1%BB%B3/Train_model.ipynb)
 
@@ -64,4 +66,10 @@
 ## Hướng giải quyết:
 - Nhóm đang train lại model khác là yolov4-custom để khắc phục các lỗi không nhận dạng được logo quá nhỏ. Có thể cải thiện dataset nhiều hơn, tiền xử lý hình ảnh…
 - Xử lý các trường hợp khó hơn: dạng logo mất một nửa
+## Kết quả Cuộc thi
+- Do đội đã bỏ lỡ round đầu của vòng chung kết nhưng nhóm em vẫn nằm trong top 
+![image](https://user-images.githubusercontent.com/63738324/106298755-e14d2080-6286-11eb-8992-b3cf19dbac5e.png)
+- Tổng kết:  Sau cùng cuộc thi, nhóm chúng em có đạt được một giải phụ là: “Khởi động ấn tượng nhất”. 
+![image](https://user-images.githubusercontent.com/63738324/106299073-4ef94c80-6287-11eb-9c8f-1cc70e6ccfe2.png)
+
 
