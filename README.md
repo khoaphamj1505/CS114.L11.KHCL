@@ -17,3 +17,4 @@ Tên thành viên | MSSV | Github
 >3. [Fetal Health Classification (Logistisc Regression)](https://github.com/khoaphamj1505/CS114.L11.KHCL/tree/master/Logistisc%20Regression(Fetal%20Health))
 >4. [News Headlines Dataset For Sarcasm Detection (Logistisc Regression)](https://github.com/khoaphamj1505/CS114.L11.KHCL/tree/master/sarcasm%20detection)
 >5. [Folio Classification (KNN Classification)](https://github.com/khoaphamj1505/CS114.L11.KHCL/tree/master/Folio)
+>5. [Báo cáo Đồ án cuối kì](https://github.com/khoaphamj1505/CS114.L11.KHCL/tree/master/%C4%90%E1%BB%93%20%C3%A1n%20cu%E1%BB%91i%20k%E1%BB%B3)
