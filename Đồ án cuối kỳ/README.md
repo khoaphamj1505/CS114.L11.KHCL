@@ -46,10 +46,6 @@
 	* Bước 4: Chỉnh sửa tệp MAKEFILE
 	* Bước 5: Chỉnh sửa tệp config trong darknet
 
-## Train và đánh giá model:
-- 
-- 
-
 ## Demo
 - Dự đoán logo bằng camera laptop
 <img src="https://raw.githubusercontent.com/khoaphamj1505/CS114.L11.KHCL/master/%C4%90%E1%BB%93%20%C3%A1n%20cu%E1%BB%91i%20k%E1%BB%B3/Laptop_cam.gif" width="400" height="400" />
