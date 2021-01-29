@@ -18,7 +18,6 @@
 * Số lượng và độ đa dạng:
 	
 	- 3000 bức hình gồm ảnh chứa logo và ảnh nhiễu
-	- Chụp hình trong các điều kiện khác nhau: sáng, tối mờ, đổi màu ảnh
 
 * Phân chia: 
 	- Train: 80%
@@ -36,7 +35,8 @@
 
 ## Thuật toán máy học: 
 - Sử dụng mô hình YOLOv4 (You Only Look Once)
-- YOLO là một trong những mô hình phát hiện, nhận dạng vật thể được coi là tốt nhất. 
+- YOLO là một trong những mô hình phát hiện, nhận dạng vật thể được coi là tốt nhất.
+- Yolo là một mô hình mạng CNN cho việc phát hiện, nhận dạng, phân loại đối tượng. Yolo được tạo ra từ việc kết hợp giữa các convolutional layers và connected layers.Trong đóp các convolutional layers sẽ trích xuất ra các feature của ảnh, còn full-connected layers sẽ dự đoán ra xác suất đó và tọa độ của đối tượng
 	* Tài liệu tham khảo: 
 		- https://github.com/AlexeyAB/darknet
 		- [Cách train mô hình YOLOv4](https://www.miai.vn/2020/05/25/yolo-series-train-yolo-v4-train-tren-colab-chi-tiet-va-day-du-a-z/)
