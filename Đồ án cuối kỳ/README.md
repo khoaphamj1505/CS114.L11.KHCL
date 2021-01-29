@@ -1,5 +1,7 @@
 # Bài toán: Nhận diện thương hiệu - Logo trong ảnh
 * ***Bài toán có ứng dụng thực tế cao, đặc biệt cho công tác quản lý và nhận diện thương hiệu.***
+> [Model_YOLOv4](https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/%C4%90%E1%BB%93%20%C3%A1n%20cu%E1%BB%91i%20k%E1%BB%B3/Train_model.ipynb)
+
 ## Mô tả bài toán:
 * **Input** : Bức ảnh có chứa logo
 
