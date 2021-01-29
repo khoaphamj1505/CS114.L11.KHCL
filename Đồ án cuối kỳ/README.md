@@ -26,6 +26,8 @@
 
 ![image](https://user-images.githubusercontent.com/63738324/104817151-02a71900-5852-11eb-9dcf-29d4a97f32b7.png)
 
+- Dữ liệu sau khi được dán nhãn sẽ trộn lên ngẫu nhiên để mang đi train. Đồng thời tạo chọn ngẫu nhiên 20% dữ liệu dùng để kiểm tra độ chính xác của model trong quá trình training
+
 ## Thuật toán máy học: 
 - Sử dụng mô hình YOLOv4 (You Only Look Once)
 - YOLO là một trong những mô hình phát hiện, nhận dạng vật thể được coi là tốt nhất. 
@@ -33,6 +35,27 @@
 		- https://github.com/AlexeyAB/darknet
 		- [Cách train mô hình YOLOv4](https://www.miai.vn/2020/05/25/yolo-series-train-yolo-v4-train-tren-colab-chi-tiet-va-day-du-a-z/)
 ## Các bước cài đặt chương trình:
+- Cài đặt tổng quát:
+	- Ngôn ngữ sử dụng: Python
+	- Công cụ thực hiện: VScode, Google Colab
+	- Thư viện sử dụng: math, os, numpy, glob2
+- Cài đặt Yolov4:
+	* Bước 1: Tải mã nguồn Yolov4 về drive
+	* Bước 2: Tải file pre-trained
+	* Bước 3: Tạo file obj.names và obj.data
+	* Bước 4: Chỉnh sửa tệp MAKEFILE
+	* Bước 5: Chỉnh sửa tệp config trong darknet
+
+## Train và đánh giá model:
+- 
+- 
+
+## Demo
+- Dự đoán logo bằng camera laptop
+<img src="https://raw.githubusercontent.com/khoaphamj1505/CS114.L11.KHCL/master/%C4%90%E1%BB%93%20%C3%A1n%20cu%E1%BB%91i%20k%E1%BB%B3/Laptop_cam.gif" width="400" height="400" />
+- Dự đoán logo bằng camera điện thoại
+<img src="https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/%C4%90%E1%BB%93%20%C3%A1n%20cu%E1%BB%91i%20k%E1%BB%B3/Mobile_cam.gif?raw=true" width="400" height="400" />
+
 ## Khó khăn:
 - Mô hình chưa giải quyết được các logo quá nhỏ.
 - Thời gian predict còn hơi chậm.
