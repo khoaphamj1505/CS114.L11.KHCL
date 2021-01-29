@@ -2,6 +2,10 @@
 * ***Bài toán có ứng dụng thực tế cao, đặc biệt cho công tác quản lý và nhận diện thương hiệu.***
 > [Model_YOLOv4](https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/%C4%90%E1%BB%93%20%C3%A1n%20cu%E1%BB%91i%20k%E1%BB%B3/Train_model.ipynb)
 
+> [Dự đoán hình ảnh](https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/%C4%90%E1%BB%93%20%C3%A1n%20cu%E1%BB%91i%20k%E1%BB%B3/img_detect.py)
+
+> [Dự đoán bằng camera (Realtime_detection)](https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/%C4%90%E1%BB%93%20%C3%A1n%20cu%E1%BB%91i%20k%E1%BB%B3/realtime_detect.py)
+
 ## Mô tả bài toán:
 * **Input** : Bức ảnh có chứa logo
 
