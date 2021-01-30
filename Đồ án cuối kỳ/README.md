@@ -27,7 +27,7 @@
 	- Train: 80%
 	- Valid: 20%
 ## Các thao tác tiền xử lí:
-- Với bộ data train: Lọc tất cả các ảnh gây nhiễu(không chứa logo trường) bằng tay do nhóm chưa biết cách lọc bằng code nên thời gian lọc data có hơi mất thời gian. 
+- Với bộ data train: Lọc tất cả các ảnh gây nhiễu (không chứa logo trường) bằng tay do nhóm chưa biết cách lọc bằng code nên thời gian lọc data có hơi mất thời gian. 
 - Sau khi lọc sử dụng tool LabelImg để gán nhãn dữ liệu(bounding boxes).
 
 	* Tham khảo ở link: [Hướng dẫn sử dụng LabelImg](https://github.com/tzutalin/labelImg)
@@ -58,9 +58,9 @@
 
 ## Demo
 - Dự đoán logo bằng camera laptop
-<img src="https://raw.githubusercontent.com/khoaphamj1505/CS114.L11.KHCL/master/%C4%90%E1%BB%93%20%C3%A1n%20cu%E1%BB%91i%20k%E1%BB%B3/Laptop_cam.gif" width="400" height="400" />
+<img src="https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/%C4%90%E1%BB%93%20%C3%A1n%20cu%E1%BB%91i%20k%E1%BB%B3/Laptop_cam.gif" width="400" height="400" />
 - Dự đoán logo bằng camera điện thoại
-<img src="https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/%C4%90%E1%BB%93%20%C3%A1n%20cu%E1%BB%91i%20k%E1%BB%B3/Mobile_cam.gif?raw=true" width="400" height="400" />
+<img src="https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/%C4%90%E1%BB%93%20%C3%A1n%20cu%E1%BB%91i%20k%E1%BB%B3/Mobile_cam.gif" width="400" height="400" />
 
 ## Kết quả Cuộc thi
 - Do đội đã bỏ lỡ round đầu của vòng chung kết nhưng nhóm em vẫn nằm trong top 
