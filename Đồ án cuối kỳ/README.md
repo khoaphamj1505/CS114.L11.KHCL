@@ -8,7 +8,7 @@
 
 > [Dự đoán bằng camera (Realtime_detection)](https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/%C4%90%E1%BB%93%20%C3%A1n%20cu%E1%BB%91i%20k%E1%BB%B3/realtime_detect.py)
 
-> [Bản báo cáo cuối cùng](https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/%C4%90%E1%BB%93%20%C3%A1n%20cu%E1%BB%91i%20k%E1%BB%B3/DoAnCuoiKi_CS114.L11.KHCL.pdf)
+> [Final Report](https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/%C4%90%E1%BB%93%20%C3%A1n%20cu%E1%BB%91i%20k%E1%BB%B3/Final_Report_CS114.L11.KHCL.pdf)
 
 ## Mô tả bài toán:
 * **Input** : Bức ảnh có chứa logo
