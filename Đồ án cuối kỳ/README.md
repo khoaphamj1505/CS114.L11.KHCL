@@ -60,12 +60,6 @@
 - Dự đoán logo bằng camera điện thoại
 <img src="https://github.com/khoaphamj1505/CS114.L11.KHCL/blob/master/%C4%90%E1%BB%93%20%C3%A1n%20cu%E1%BB%91i%20k%E1%BB%B3/Mobile_cam.gif?raw=true" width="400" height="400" />
 
-## Khó khăn:
-- Mô hình chưa giải quyết được các logo quá nhỏ.
-- Thời gian predict còn hơi chậm.
-## Hướng giải quyết:
-- Nhóm đang train lại model khác là yolov4-custom để khắc phục các lỗi không nhận dạng được logo quá nhỏ. Có thể cải thiện dataset nhiều hơn, tiền xử lý hình ảnh…
-- Xử lý các trường hợp khó hơn: dạng logo mất một nửa
 ## Kết quả Cuộc thi
 - Do đội đã bỏ lỡ round đầu của vòng chung kết nhưng nhóm em vẫn nằm trong top 
 ![image](https://user-images.githubusercontent.com/63738324/106298755-e14d2080-6286-11eb-8992-b3cf19dbac5e.png)
